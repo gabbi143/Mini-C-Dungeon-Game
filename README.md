@@ -1,2 +1,2 @@
-# Mini-C-Dungeon-Game
+# Mini-C++-Dungeon-Game
 A simple C++ Dungeon Game on Code Blocks.
