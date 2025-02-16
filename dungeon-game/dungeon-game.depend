@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1739714717 source:c:\users\gabbi\documents\gabbicodeblocks\dungeon-game\dungeon-game.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"dungeon-game.h"
+
+1739711622 c:\users\gabbi\documents\gabbicodeblocks\dungeon-game\dungeon-game.h
+
+1739714697 source:c:\users\gabbi\documents\gabbicodeblocks\dungeon-game\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"dungeon-game.h"
+
